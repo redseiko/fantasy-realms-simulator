@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Realms Simulator",
+  "description": "A grand strategy simulator where you can observe and interact with fantasy nations. This view showcases a procedurally generated world of adjacent realms, each with its unique characteristics, all generated client-side.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
