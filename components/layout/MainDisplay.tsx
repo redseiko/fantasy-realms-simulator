@@ -1,5 +1,6 @@
 
-import React, { useState } from 'react';
+
+import React from 'react';
 import { Nation, MapData, Era, TradeGood, SortKey, SortOrder, ActiveView } from '../../types';
 import WorldMap from '../map/WorldMap';
 import SidePanel from '../sidepanel/SidePanel';

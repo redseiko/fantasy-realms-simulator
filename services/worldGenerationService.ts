@@ -1,5 +1,6 @@
 
-import { WorldData, Nation, TradeGood, Era, MapData, Building } from '../types';
+
+import { WorldData, Nation, Era, MapData, Building } from '../types';
 import { deriveGdpFromMarketAndServices } from './economyService';
 import { generateMapLayout } from './mapGenerationService';
 import { getColorForSeed } from '../utils/colorUtils';
